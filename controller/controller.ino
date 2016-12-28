@@ -7,6 +7,10 @@
 
 #include "Joystick.h"
 
+// Using this library https://github.com/MHeironimus/ArduinoJoystickLibrary
+
+Joystick_ Joystick;
+
 int startTable = 5;
 int startPad = 4;
 
